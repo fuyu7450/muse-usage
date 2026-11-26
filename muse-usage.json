@@ -1,1 +1,9 @@
-{"days_left":2,"left_percent":56,"plan":"free weekly","reset_at":"2026-11-28T20:06:00+09:00","reset_label":"11月28日 20:06","updated_at":"2026-11-26T02:32:14+09:00","used_percent":44}
+{
+  "used_percent": 45,
+  "left_percent": 55,
+  "days_left": 2,
+  "reset_label": "11月28日 20:06",
+  "reset_at": "2026-11-28T20:06:00+09:00",
+  "plan": "free weekly",
+  "updated_at": "2026-11-26T12:32:00+09:00"
+}
